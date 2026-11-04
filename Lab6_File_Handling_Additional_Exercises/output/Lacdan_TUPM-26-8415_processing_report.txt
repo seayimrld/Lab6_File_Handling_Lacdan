@@ -1,0 +1,23 @@
+CYBERSECURITY THREATS PROCESSING REPORT (2020)
+Student: Lacdan (TUPM-26-8415)
+==================================================
+
+Total Records in Dataset: 3000
+Incidents in Target Year (2020): 315
+Total Financial Loss: $0.00 million
+Average Financial Loss: $0.00 million
+
+Count per Attack Type:
+ - Unknown: 315
+
+Top 5 Costliest Incidents:
+ 1. ID: N/A | Type: N/A | Loss: $0.00M
+ 2. ID: N/A | Type: N/A | Loss: $0.00M
+ 3. ID: N/A | Type: N/A | Loss: $0.00M
+ 4. ID: N/A | Type: N/A | Loss: $0.00M
+ 5. ID: N/A | Type: N/A | Loss: $0.00M
+
+Output Files Generated:
+ - Filtered CSV: Lab6_File_Handling_Additional_Exercises\output\Lacdan_TUPM-26-8415_filtered_incidents.csv
+ - JSON Summary: Lab6_File_Handling_Additional_Exercises\output\Lacdan_TUPM-26-8415_costliest_incidents.json
+ - Backup Verified: True

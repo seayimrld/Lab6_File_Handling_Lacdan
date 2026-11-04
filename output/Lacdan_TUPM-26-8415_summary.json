@@ -1,0 +1,77 @@
+{
+    "target_year": "2020",
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 315,
+    "attack_type_counts": {
+        "Malware": 37,
+        "Phishing": 61,
+        "Man-in-the-Middle": 47,
+        "DDoS": 56,
+        "SQL Injection": 55,
+        "Ransomware": 59
+    },
+    "total_financial_loss_usd_millions": 15767.95,
+    "average_financial_loss_usd_millions": 50.06,
+    "five_costliest_incidents": [
+        {
+            "Country": "Brazil",
+            "Year": "2020",
+            "Attack Type": "Ransomware",
+            "Target Industry": "Banking",
+            "Financial Loss (in Million $)": "99.9",
+            "Number of Affected Users": "429566",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": "54"
+        },
+        {
+            "Country": "Japan",
+            "Year": "2020",
+            "Attack Type": "DDoS",
+            "Target Industry": "Education",
+            "Financial Loss (in Million $)": "99.83",
+            "Number of Affected Users": "10859",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": "66"
+        },
+        {
+            "Country": "USA",
+            "Year": "2020",
+            "Attack Type": "DDoS",
+            "Target Industry": "Banking",
+            "Financial Loss (in Million $)": "99.81",
+            "Number of Affected Users": "948174",
+            "Attack Source": "Unknown",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": "4"
+        },
+        {
+            "Country": "India",
+            "Year": "2020",
+            "Attack Type": "SQL Injection",
+            "Target Industry": "Government",
+            "Financial Loss (in Million $)": "99.72",
+            "Number of Affected Users": "604113",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Encryption",
+            "Incident Resolution Time (in Hours)": "7"
+        },
+        {
+            "Country": "USA",
+            "Year": "2020",
+            "Attack Type": "Phishing",
+            "Target Industry": "Retail",
+            "Financial Loss (in Million $)": "99.64",
+            "Number of Affected Users": "464717",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "VPN",
+            "Incident Resolution Time (in Hours)": "27"
+        }
+    ]
+}

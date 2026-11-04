@@ -1,0 +1,19 @@
+{
+    "student_name": "Lacdan",
+    "student_id": "TUPM-26-8415",
+    "target_year": 2020,
+    "total_records_in_dataset": 3000,
+    "records_matching_target_year": 315,
+    "total_financial_loss_million_usd": 15767.95,
+    "most_frequent_attack_type": "Phishing",
+    "attack_type_distribution": {
+        "Malware": 37,
+        "Phishing": 61,
+        "Man-in-the-Middle": 47,
+        "DDoS": 56,
+        "SQL Injection": 55,
+        "Ransomware": 59
+    },
+    "count_verification": true,
+    "exported_csv_size_bytes": 12206
+}

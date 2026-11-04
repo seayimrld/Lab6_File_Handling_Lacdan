@@ -1,0 +1,12 @@
+{
+    "student_name": "Lacdan",
+    "student_id": "TUPM-26-8415",
+    "target_os": "iOS",
+    "target_behavior_class": 1,
+    "total_records_in_dataset": 700,
+    "records_matching_os": 146,
+    "records_in_target_behavior_class": 22,
+    "average_battery_drain_mah": 467.23,
+    "average_data_usage_mb": 201.45,
+    "exported_csv_size_bytes": 826
+}

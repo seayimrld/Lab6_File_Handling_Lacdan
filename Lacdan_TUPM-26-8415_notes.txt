@@ -1,0 +1,5 @@
+Student: Lacdan
+Student ID: TUPM-26-8415
+Seed digit: 5
+ID sum: 26
+Verification value: 161

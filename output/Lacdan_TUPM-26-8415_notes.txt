@@ -1,0 +1,34 @@
+==================================================
+LABORATORY 6: FILE HANDLING (ADDITIONAL EXERCISES)
+Student: Lacdan_TUPM-26-8415
+Generated: 2026-11-04 20:09:35
+==================================================
+
+[ASSESSMENT DATA]
+1. Target year: 2020
+2. Total records in dataset: 3,000
+3. Incidents in target year: 315
+4. Total financial loss (USD millions): $15,767.95M
+5. Average financial loss (USD millions): $50.06M
+
+[COUNT PER ATTACK TYPE]
+  - Malware: 37
+  - Phishing: 61
+  - Man-in-the-Middle: 47
+  - DDoS: 56
+  - SQL Injection: 55
+  - Ransomware: 59
+
+[FIVE COSTLIEST INCIDENTS]
+  1. ID: Incident #1 | Loss: $99.90M
+  2. ID: Incident #2 | Loss: $99.83M
+  3. ID: Incident #3 | Loss: $99.81M
+  4. ID: Incident #4 | Loss: $99.72M
+  5. ID: Incident #5 | Loss: $99.64M
+
+[FILE REFERENCES]
+- Filtered CSV: output/Lacdan_TUPM-26-8415_filtered.csv
+- JSON Summary: output/Lacdan_TUPM-26-8415_summary.json
+- Backup Verification: backup/Lacdan_TUPM-26-8415_backup.json
+- Report File: output/Lacdan_TUPM-26-8415_notes.txt
+==================================================

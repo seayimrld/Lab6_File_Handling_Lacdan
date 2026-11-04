@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Lacdan
+Student ID: TUPM-26-8415
+Seed Digit: 5
+ID Sum: 26
+Verification Value: 161
+Dataset Sample Size: 76
+Valid Records: 76
+Average Global Active Power: 4.017
+JSON File: Lacdan_TUPM-26-8415_record.json
+Backup File: Lacdan_TUPM-26-8415_record.csv

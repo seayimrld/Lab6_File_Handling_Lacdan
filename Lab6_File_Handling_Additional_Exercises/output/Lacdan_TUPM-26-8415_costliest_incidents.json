@@ -1,0 +1,62 @@
+[
+    {
+        "Country": "France",
+        "Year": "2020",
+        "Attack Type": "Malware",
+        "Target Industry": "IT",
+        "Financial Loss (in Million $)": "87.32",
+        "Number of Affected Users": "599757",
+        "Attack Source": "Unknown",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "9"
+    },
+    {
+        "Country": "France",
+        "Year": "2020",
+        "Attack Type": "Malware",
+        "Target Industry": "Telecommunications",
+        "Financial Loss (in Million $)": "18.38",
+        "Number of Affected Users": "246900",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "34"
+    },
+    {
+        "Country": "Brazil",
+        "Year": "2020",
+        "Attack Type": "Phishing",
+        "Target Industry": "Banking",
+        "Financial Loss (in Million $)": "17.75",
+        "Number of Affected Users": "739540",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "Encryption",
+        "Incident Resolution Time (in Hours)": "31"
+    },
+    {
+        "Country": "China",
+        "Year": "2020",
+        "Attack Type": "Man-in-the-Middle",
+        "Target Industry": "Education",
+        "Financial Loss (in Million $)": "19.81",
+        "Number of Affected Users": "722788",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "Firewall",
+        "Incident Resolution Time (in Hours)": "70"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2020",
+        "Attack Type": "DDoS",
+        "Target Industry": "Banking",
+        "Financial Loss (in Million $)": "92.95",
+        "Number of Affected Users": "942890",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "19"
+    }
+]

@@ -1,0 +1,316 @@
+Incident ID,Date/Year,Attack Type,Target Industry,Financial Loss (in Million $)
+France,2020,Malware,IT,87.32
+France,2020,Malware,Telecommunications,18.38
+Brazil,2020,Phishing,Banking,17.75
+China,2020,Man-in-the-Middle,Education,19.81
+Australia,2020,DDoS,Banking,92.95
+India,2020,DDoS,Banking,86.27
+India,2020,SQL Injection,Education,62.5
+UK,2020,Ransomware,Banking,49.23
+Germany,2020,SQL Injection,Education,87.84
+Brazil,2020,DDoS,Banking,76.98
+Japan,2020,DDoS,Healthcare,73.24
+Japan,2020,Man-in-the-Middle,Banking,23.55
+USA,2020,Man-in-the-Middle,Telecommunications,15.63
+Australia,2020,DDoS,Retail,36.29
+Brazil,2020,DDoS,Retail,17.4
+UK,2020,SQL Injection,Healthcare,67.9
+Brazil,2020,Malware,Banking,79.61
+France,2020,Phishing,Government,94.44
+Japan,2020,Phishing,Education,54.47
+Japan,2020,Malware,Banking,15.73
+Japan,2020,Ransomware,IT,79.52
+Australia,2020,Ransomware,Healthcare,58.91
+Russia,2020,DDoS,Healthcare,0.82
+Brazil,2020,Man-in-the-Middle,Government,32.72
+Germany,2020,Phishing,Retail,78.84
+France,2020,SQL Injection,IT,25.32
+France,2020,SQL Injection,Retail,36.17
+France,2020,SQL Injection,Education,94.63
+Russia,2020,Man-in-the-Middle,Banking,54.03
+USA,2020,DDoS,Government,10.54
+Russia,2020,Phishing,Education,34.41
+Australia,2020,Phishing,Government,92.5
+Japan,2020,Ransomware,Banking,40.86
+UK,2020,Phishing,Retail,25.1
+UK,2020,Phishing,Healthcare,3.02
+UK,2020,SQL Injection,Government,53.76
+Japan,2020,DDoS,Healthcare,25.83
+Germany,2020,Phishing,Healthcare,38.12
+Australia,2020,DDoS,Healthcare,91.45
+Russia,2020,SQL Injection,Telecommunications,29.89
+Australia,2020,Malware,Education,5.95
+Australia,2020,SQL Injection,Telecommunications,53.32
+Germany,2020,Phishing,IT,33.51
+Russia,2020,DDoS,Banking,33.99
+Japan,2020,Ransomware,IT,61.69
+UK,2020,Ransomware,Banking,16.91
+UK,2020,SQL Injection,Education,35.57
+France,2020,DDoS,Healthcare,58.8
+USA,2020,DDoS,Education,52.7
+UK,2020,Phishing,Banking,84.77
+UK,2020,DDoS,Retail,86.0
+Japan,2020,Man-in-the-Middle,IT,35.79
+China,2020,SQL Injection,Healthcare,62.44
+India,2020,Man-in-the-Middle,IT,28.69
+France,2020,DDoS,Government,44.16
+Brazil,2020,Phishing,IT,57.43
+Japan,2020,Phishing,Education,49.17
+France,2020,Phishing,Retail,14.45
+UK,2020,DDoS,Government,78.32
+France,2020,Ransomware,Education,66.04
+Japan,2020,Malware,Telecommunications,98.14
+Germany,2020,Ransomware,IT,65.2
+France,2020,Ransomware,Healthcare,3.27
+Australia,2020,Malware,Banking,42.3
+Japan,2020,Phishing,Banking,73.04
+Brazil,2020,Man-in-the-Middle,Education,71.35
+France,2020,Ransomware,Telecommunications,75.13
+Australia,2020,Man-in-the-Middle,Banking,56.34
+Germany,2020,SQL Injection,Education,43.96
+China,2020,DDoS,Banking,11.72
+Australia,2020,Malware,Government,98.05
+Germany,2020,Man-in-the-Middle,Healthcare,28.81
+France,2020,DDoS,IT,7.52
+USA,2020,SQL Injection,Government,40.95
+UK,2020,SQL Injection,Banking,47.67
+India,2020,Ransomware,Healthcare,10.46
+China,2020,SQL Injection,IT,89.38
+France,2020,Malware,Government,10.62
+China,2020,Man-in-the-Middle,Telecommunications,14.61
+Japan,2020,Phishing,Government,32.39
+China,2020,Malware,Healthcare,30.86
+France,2020,Man-in-the-Middle,Retail,89.85
+India,2020,Phishing,Education,39.72
+USA,2020,Ransomware,IT,95.79
+USA,2020,Phishing,Retail,99.64
+China,2020,Ransomware,IT,14.94
+Brazil,2020,DDoS,Telecommunications,4.52
+Brazil,2020,Phishing,Telecommunications,92.63
+Australia,2020,DDoS,Telecommunications,20.59
+Russia,2020,Phishing,Banking,98.38
+Russia,2020,DDoS,Healthcare,49.02
+UK,2020,SQL Injection,Retail,56.3
+Russia,2020,Ransomware,IT,33.61
+China,2020,Man-in-the-Middle,Education,84.4
+France,2020,Malware,Banking,50.19
+France,2020,Man-in-the-Middle,Healthcare,17.49
+Germany,2020,Ransomware,Telecommunications,15.14
+India,2020,Man-in-the-Middle,Banking,59.67
+Japan,2020,Ransomware,Healthcare,41.88
+Brazil,2020,DDoS,Government,13.22
+Germany,2020,Ransomware,IT,54.65
+USA,2020,Ransomware,Telecommunications,93.89
+USA,2020,Phishing,Banking,74.51
+UK,2020,DDoS,Education,84.28
+USA,2020,Phishing,Banking,44.08
+Germany,2020,DDoS,Banking,64.64
+UK,2020,SQL Injection,Banking,73.69
+France,2020,Ransomware,Telecommunications,10.52
+Germany,2020,SQL Injection,IT,54.59
+China,2020,DDoS,Education,52.36
+India,2020,Ransomware,IT,70.91
+Japan,2020,SQL Injection,Banking,70.14
+France,2020,Malware,Telecommunications,93.88
+India,2020,SQL Injection,Government,99.72
+France,2020,Ransomware,Healthcare,37.36
+Germany,2020,SQL Injection,Banking,65.24
+France,2020,Man-in-the-Middle,IT,88.42
+Brazil,2020,Ransomware,IT,56.59
+Russia,2020,Phishing,Education,9.52
+USA,2020,Phishing,Healthcare,39.92
+Russia,2020,Man-in-the-Middle,Retail,74.11
+UK,2020,Phishing,Telecommunications,43.72
+Germany,2020,SQL Injection,Retail,76.04
+India,2020,Man-in-the-Middle,Telecommunications,57.89
+USA,2020,DDoS,IT,96.08
+Germany,2020,Phishing,Government,40.62
+India,2020,SQL Injection,Banking,89.8
+India,2020,SQL Injection,Telecommunications,17.47
+France,2020,Malware,Healthcare,76.42
+India,2020,Phishing,IT,3.2
+Japan,2020,Phishing,Banking,39.33
+Brazil,2020,Ransomware,Banking,99.9
+India,2020,Ransomware,Healthcare,70.67
+Japan,2020,DDoS,Retail,37.81
+Australia,2020,Ransomware,Banking,97.48
+Russia,2020,Ransomware,Telecommunications,58.73
+Russia,2020,Man-in-the-Middle,Government,97.39
+China,2020,SQL Injection,Telecommunications,29.31
+Australia,2020,SQL Injection,Telecommunications,43.69
+Brazil,2020,Phishing,Healthcare,18.79
+UK,2020,Ransomware,IT,83.29
+USA,2020,DDoS,Retail,11.79
+USA,2020,SQL Injection,Retail,16.98
+UK,2020,DDoS,Retail,18.52
+China,2020,Man-in-the-Middle,Retail,34.82
+USA,2020,Man-in-the-Middle,IT,33.22
+Japan,2020,Phishing,Retail,38.96
+India,2020,Phishing,Telecommunications,30.14
+Russia,2020,Man-in-the-Middle,IT,21.72
+Brazil,2020,Ransomware,IT,71.74
+China,2020,Man-in-the-Middle,Retail,48.24
+Brazil,2020,SQL Injection,Retail,96.97
+Germany,2020,SQL Injection,Healthcare,96.31
+China,2020,Phishing,Education,33.69
+UK,2020,Man-in-the-Middle,Government,54.29
+India,2020,Phishing,Retail,25.79
+India,2020,Phishing,Healthcare,38.19
+Russia,2020,Man-in-the-Middle,IT,14.68
+Russia,2020,Man-in-the-Middle,Telecommunications,10.12
+France,2020,Malware,Banking,12.25
+UK,2020,Phishing,Healthcare,66.55
+India,2020,Phishing,Healthcare,64.7
+China,2020,Man-in-the-Middle,Education,1.05
+USA,2020,Man-in-the-Middle,IT,87.88
+UK,2020,SQL Injection,Retail,69.91
+USA,2020,Ransomware,Banking,27.45
+Brazil,2020,Phishing,Retail,50.99
+France,2020,SQL Injection,Healthcare,66.92
+UK,2020,Phishing,Healthcare,39.47
+Germany,2020,Man-in-the-Middle,IT,84.55
+China,2020,Phishing,Education,6.35
+UK,2020,Man-in-the-Middle,IT,85.85
+Russia,2020,Man-in-the-Middle,Telecommunications,64.39
+France,2020,DDoS,Retail,40.72
+Brazil,2020,Man-in-the-Middle,Retail,16.26
+UK,2020,Phishing,Banking,3.84
+China,2020,Malware,Healthcare,11.89
+USA,2020,DDoS,Banking,99.81
+France,2020,DDoS,Telecommunications,66.27
+Australia,2020,SQL Injection,IT,21.02
+France,2020,Ransomware,Retail,97.37
+UK,2020,Ransomware,Banking,98.07
+Australia,2020,Man-in-the-Middle,Banking,34.59
+Brazil,2020,Malware,Retail,89.71
+Brazil,2020,Phishing,Banking,21.65
+Brazil,2020,Phishing,Banking,34.5
+Japan,2020,SQL Injection,Telecommunications,38.29
+Germany,2020,Malware,Government,32.59
+China,2020,Ransomware,Banking,98.05
+USA,2020,DDoS,Retail,14.12
+Japan,2020,SQL Injection,Retail,10.41
+USA,2020,Ransomware,Healthcare,17.24
+UK,2020,Malware,Retail,10.94
+Russia,2020,DDoS,Healthcare,44.32
+Germany,2020,DDoS,Government,32.71
+France,2020,DDoS,Education,16.35
+Russia,2020,Ransomware,Telecommunications,76.61
+Japan,2020,Malware,Education,66.93
+India,2020,Phishing,Retail,12.64
+UK,2020,Man-in-the-Middle,Telecommunications,63.35
+Brazil,2020,DDoS,Education,26.57
+Japan,2020,Man-in-the-Middle,Education,29.58
+UK,2020,Ransomware,Education,35.16
+India,2020,Man-in-the-Middle,Retail,84.77
+Japan,2020,Man-in-the-Middle,Retail,33.75
+UK,2020,Ransomware,Banking,53.03
+Germany,2020,SQL Injection,Healthcare,38.89
+USA,2020,Ransomware,Retail,38.02
+Australia,2020,DDoS,Retail,31.36
+France,2020,Ransomware,Healthcare,25.49
+UK,2020,SQL Injection,Banking,40.31
+India,2020,DDoS,Healthcare,16.65
+USA,2020,Phishing,Government,37.3
+France,2020,Ransomware,Government,81.53
+Germany,2020,DDoS,IT,63.96
+USA,2020,SQL Injection,IT,68.17
+India,2020,Malware,Education,20.14
+Australia,2020,Ransomware,Government,25.9
+India,2020,Ransomware,IT,41.09
+Brazil,2020,Malware,Government,50.61
+Russia,2020,Ransomware,Government,52.28
+USA,2020,DDoS,Government,40.98
+France,2020,DDoS,IT,63.87
+Australia,2020,Malware,Government,35.96
+Russia,2020,Ransomware,Education,65.73
+Japan,2020,Malware,IT,80.49
+Australia,2020,Man-in-the-Middle,Healthcare,56.14
+Brazil,2020,Phishing,IT,94.02
+Japan,2020,DDoS,Education,39.33
+France,2020,Phishing,Banking,13.38
+India,2020,Ransomware,Healthcare,79.48
+China,2020,SQL Injection,Banking,80.98
+India,2020,Ransomware,Government,12.64
+Germany,2020,DDoS,Banking,76.53
+China,2020,Malware,IT,95.17
+India,2020,DDoS,Telecommunications,18.18
+UK,2020,Man-in-the-Middle,Telecommunications,59.32
+China,2020,Phishing,Education,54.76
+India,2020,SQL Injection,Telecommunications,87.44
+France,2020,Ransomware,Education,47.32
+India,2020,SQL Injection,Government,42.81
+Germany,2020,SQL Injection,Healthcare,62.61
+Germany,2020,SQL Injection,Telecommunications,27.52
+USA,2020,Ransomware,Retail,16.33
+Japan,2020,DDoS,Education,99.83
+Russia,2020,DDoS,Government,41.45
+India,2020,Malware,IT,84.43
+China,2020,DDoS,Healthcare,6.32
+Australia,2020,Phishing,Education,85.79
+USA,2020,Ransomware,Telecommunications,56.37
+China,2020,Phishing,Retail,75.95
+Australia,2020,Ransomware,Telecommunications,97.9
+UK,2020,SQL Injection,IT,87.48
+Russia,2020,DDoS,Education,60.94
+India,2020,Phishing,Education,17.43
+China,2020,SQL Injection,Telecommunications,70.02
+Russia,2020,DDoS,Government,72.59
+Russia,2020,SQL Injection,Telecommunications,35.02
+Brazil,2020,SQL Injection,Banking,68.05
+India,2020,Malware,Healthcare,20.62
+USA,2020,Ransomware,Education,77.09
+China,2020,SQL Injection,Healthcare,11.55
+Russia,2020,Ransomware,Banking,13.66
+China,2020,Malware,Government,84.23
+USA,2020,Malware,Telecommunications,27.16
+USA,2020,Man-in-the-Middle,Education,44.85
+Japan,2020,Man-in-the-Middle,IT,13.61
+Brazil,2020,SQL Injection,Education,50.41
+USA,2020,DDoS,Banking,60.2
+UK,2020,DDoS,Retail,70.03
+Japan,2020,Phishing,IT,99.57
+India,2020,Man-in-the-Middle,Government,50.19
+USA,2020,DDoS,Healthcare,38.14
+India,2020,Man-in-the-Middle,Education,39.15
+Germany,2020,Malware,Government,32.2
+Japan,2020,Man-in-the-Middle,Retail,91.36
+France,2020,Malware,Healthcare,92.29
+Japan,2020,Ransomware,IT,25.3
+Brazil,2020,Phishing,Government,76.95
+Russia,2020,Ransomware,Healthcare,11.11
+USA,2020,Phishing,Education,60.57
+Japan,2020,SQL Injection,Telecommunications,92.13
+Germany,2020,Man-in-the-Middle,Retail,46.07
+India,2020,Malware,Healthcare,7.08
+France,2020,Ransomware,IT,21.11
+India,2020,Malware,Healthcare,3.74
+Australia,2020,Phishing,Banking,42.03
+Japan,2020,Ransomware,Banking,37.38
+USA,2020,Malware,Retail,59.15
+Russia,2020,DDoS,Healthcare,6.37
+Japan,2020,Phishing,Healthcare,73.13
+Japan,2020,SQL Injection,Banking,64.25
+Brazil,2020,SQL Injection,Education,85.12
+France,2020,DDoS,IT,52.09
+France,2020,Man-in-the-Middle,Education,35.12
+USA,2020,Phishing,Government,37.66
+Germany,2020,Phishing,Healthcare,69.2
+France,2020,Malware,Government,27.43
+China,2020,Phishing,Retail,17.99
+Australia,2020,Ransomware,Retail,71.03
+India,2020,Phishing,Government,85.73
+Germany,2020,SQL Injection,Retail,70.09
+Japan,2020,SQL Injection,IT,64.56
+Japan,2020,Phishing,Telecommunications,91.52
+UK,2020,Malware,IT,44.05
+Brazil,2020,SQL Injection,Education,62.72
+Japan,2020,Man-in-the-Middle,Banking,73.85
+China,2020,Malware,Healthcare,24.78
+Brazil,2020,DDoS,Healthcare,53.42
+Russia,2020,Ransomware,IT,36.9
+Russia,2020,SQL Injection,Government,10.46
+Brazil,2020,Malware,Telecommunications,23.21
+Russia,2020,Ransomware,Telecommunications,48.68
+China,2020,Phishing,IT,55.06
+Japan,2020,Ransomware,Government,21.92
